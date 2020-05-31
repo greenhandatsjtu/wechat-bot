@@ -20,6 +20,24 @@ pip install -r requirements.txt
 + wallpaper：随机获取一张动漫壁纸
 + movie：从豆瓣获取正在上映的电影
 
+## 测试截图
+
++ 一言&壁纸
+
+  ![](./pics/hitikoto&wallpaper.jpg)
+
++ 微博热搜
+
+  ![](./pics/weibohot.jpg)
+
++ 上海交大教务处网站通知
+
+  ![](./pics/jwcbulletin.jpg)
+
++ 豆瓣：正在上映的电影
+
+  ![](./pics/movie.jpg)
+
 ## 感谢
 
 [littlecodersh/**ItChat**](https://github.com/littlecodersh/ItChat)
